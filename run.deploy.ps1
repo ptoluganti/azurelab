@@ -1,0 +1,1 @@
+﻿.\deploy.ps1 -subscriptionId " " -resourceGroupName "JDEEPTA_LAB" -resourceGroupLocation "northeurope" -deploymentName "JDEEPTA_LAB"
